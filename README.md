@@ -22,16 +22,9 @@ Currently improving my C++ and web development skills.
 
 ## 🛠 Tech Stack
 
-💻 Languages:
-- C++
-- HTML
-- CSS
-
-🧰 Tools:
-- Git
-- Windows
-- Linux (learning)
-- VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,git,vscode,linux,windows" />
+</p>
 
 ---
 
