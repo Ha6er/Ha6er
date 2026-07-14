@@ -23,7 +23,7 @@ Currently improving my C++ and web development skills.
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,django,jquery,html,css,git,vscode,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,django,jquery,bootstrap,mysql,postgres,html,css,git,vscode,linux" />
 </p>
 
 ---
