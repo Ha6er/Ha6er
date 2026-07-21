@@ -1,58 +1,76 @@
-# 👨‍💻 Hi, I'm Seba
+# 👋 Hi, I'm Seba
 
 💻 Software Engineering Student @ Vilnius Tech  
-⚡ Remote PC Support & Tech Specialist  
-🌐 Beginner C++ | HTML | CSS  
+🤖 AI Automation Developer  
+💻 C++ & Python Developer  
+☁️ Linux | HomeLab | Self-Hosting
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I’m a Software Engineering student focused on building real technical skills and helping people solve computer problems remotely.
+I'm a Software Engineering student passionate about building real software and automation tools.
 
-🔧 What I do:
-- Remote PC optimization & troubleshooting
-- Windows installation & software setup
-- Gaming PC performance tuning
-- Small HTML/CSS fixes
+My main interests include:
 
-Currently improving my C++ and web development skills.
+- 🤖 AI Automation
+- 💬 Telegram Bots
+- 💻 C++ Development
+- 🌐 Web Applications
+- ☁️ Linux & Self-Hosting
+
+I enjoy building projects that solve real problems and continuously expanding my knowledge across software engineering.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,django,jquery,bootstrap,mysql,postgres,html,css,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,django,html,css,bootstrap,mysql,postgres,git,linux,vscode,docker" />
 </p>
 
 ---
 
-## 📂 Projects
+# 🚀 Featured Projects
 
-🔹 **HTML Landing Page**
-> Simple responsive landing page built with HTML & CSS.
+### 🤖 AI Automation
 
-🔹 **C++ Console Programs**
-> Beginner-level programs for learning algorithms and logic.
+Developing AI-powered assistants and automation solutions for businesses.
 
-🔹 **PC Optimization Scripts**
-> Small tools and configs for improving Windows performance.
+### 💬 Telegram Bots
+
+Building Telegram bots using Python and the Telegram Bot API.
+
+### 💻 IA-32 Emulator
+
+A CPU emulator written in C++ implementing the IA-32 instruction set for educational purposes.
+
+### 💻 CAT007 Emulator
+
+A custom CPU emulator developed in C++, focusing on instruction execution and computer architecture concepts.
+
+### 🌐 Web Applications
+
+Building web applications using Django and modern web technologies.
+
+### ☁️ HomeLab
+
+Hosting personal projects on a Linux server using Git, SSH, systemd and self-hosted services.
 
 ---
 
-## 📈 Goals 2026
+# 🎯 Current Goals
 
-- Improve C++ fundamentals
-- Learn JavaScript basics
-- Build real-world portfolio projects
-- Start freelance tech support & web fixes
+- Build an AI Automation Agency
+- Develop SaaS products
+- Improve C++ and Python expertise
+- Learn Machine Learning & AI
+- Expand Linux and DevOps skills
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-📩 Open to collaboration and freelance tasks  
-Discord: butrim6
-Email: sebabutrim@gmail.com
+📧 Email: sebabutrim@gmail.com
 
+💬 Discord: butrim6
