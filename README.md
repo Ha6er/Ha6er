@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Seba&fontSize=60&fontColor=ffffff"/>
-</p>
-
 # 👋 Hi, I'm Seba
 
 💻 Software Engineering Student @ Vilnius Tech  
@@ -26,13 +22,6 @@ My main interests include:
 I enjoy building projects that solve real problems and continuously expanding my knowledge across software engineering.
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB&show_icons=true&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB&layout=compact&theme=github_dark)
-
 
 # 🛠 Tech Stack
 
