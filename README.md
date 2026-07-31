@@ -26,7 +26,7 @@ I enjoy building projects that solve real problems and continuously expanding my
 # 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,django,html,css,bootstrap,mysql,postgres,git,linux,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,vue,django,html,css,bootstrap,docker,mysql,postgres,git,linux,vscode,docker" />
 </p>
 
 ---
